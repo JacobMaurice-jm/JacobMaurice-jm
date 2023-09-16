@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hello, I'm Jacob!
 
-<!--
-**JacobMaurice-jm/JacobMaurice-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student 📚
+🌐 Passionate Web Developer 💻
+🚀 Turning Ideas into Interactive Experiences 🌟
 
-Here are some ideas to get you started:
+🔨 Skills:
+🌐 Front-end Development: HTML, CSS, JavaScript
+🔗 Frameworks: React, Node.js, Three.js
+📦 Package Manager: npm
+🔧 Tools: VS Code, Git, GitHub
+🌟 UI/UX Design: Adobe XD, Photoshop, Adobe Illustrator, Blender, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always eager to learn and collaborate with fellow devs 🤝
+🚀 Let's build the web of the future together! 💡
+
+📫 You can reach me at jacob.maurice.jm@gmail.com
+🌐 Check out my projects below and let's connect! 📦👇
