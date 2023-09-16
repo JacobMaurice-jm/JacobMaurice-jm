@@ -1,5 +1,4 @@
 # **Hey!** 👋 
-<br>
 
 ## I'm Jacob, a highly motivated 3rd-year computer science student at the University of Ottawa with an unwavering passion for web development. 🌟
 <br>
@@ -23,6 +22,6 @@
 <br>
 
 📫 Here's how you can reach me:
-[Email](jacob.maurice.jm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/-jacob-maurice/)
+[Email](mailto:jacob.maurice.jm@gmail.com) | [LinkedIn](https://www.linkedin.com/in/-jacob-maurice/)
 <br>
 🌐 Check out my projects below and let's connect! 📦👇
