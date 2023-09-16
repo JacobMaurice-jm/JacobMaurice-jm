@@ -1,7 +1,7 @@
 # **Hey!** 👋 
 
 ## I'm Jacob, a highly motivated 3rd-year computer science student at the University of Ottawa with an unwavering passion for web development. 🌟
-<br>
+
 
 🔨 Skills:
 <br>
